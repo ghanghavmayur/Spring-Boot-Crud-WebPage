@@ -27,10 +27,10 @@ This repository contains a simple web application for managing user data using S
     ```bash
     ./mvnw spring-boot:run
     ```
-4. The application will be accessible at [http://localhost:8080/](http://localhost:8080/showusers).
+4. The application will be accessible at [http://localhost:8080/showusers](http://localhost:8080/showusers).
 
 ## Usage
-1. Open a web browser and go to [http://localhost:8080/](http://localhost:8080/showusers) to access the home page.
+1. Open a web browser and go to [http://localhost:8080/showusers](http://localhost:8080/showusers) to access the home page.
 2. Click on "User List" in the navigation bar to view the list of users.
 3. To add a new user, click on "New" and fill in the required details.
 4. To edit or delete a user, click on "Edit" or "Delete" next to the respective user in the list.
