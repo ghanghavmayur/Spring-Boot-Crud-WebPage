@@ -22,12 +22,8 @@ This repository contains a simple web application for managing user data using S
 
 ## Running the Application
 1. Clone this repository to your local machine.
-2. Open a terminal and navigate to the project directory.
-3. Run the following command to start the application:
-    ```bash
-    ./mvnw spring-boot:run
-    ```
-4. The application will be accessible at [http://localhost:8080/showusers](http://localhost:8080/showusers).
+2. Open repository in your IDE and run the `WebPageCrudApplication.java` file on location `/src/main/java/com/WebPage/WebPageCrud/WebPageCrudApplication.java`.
+3. The application will be accessible at [http://localhost:8080/showusers](http://localhost:8080/showusers).
 
 ## Usage
 1. Open a web browser and go to [http://localhost:8080/showusers](http://localhost:8080/showusers) to access the home page.
